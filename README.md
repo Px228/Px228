@@ -126,10 +126,6 @@ Run with Firebase backend.
 <img src="https://user-images.githubusercontent.com/33416429/87865979-5b900600-c930-11ea-988d-6e075526e8b9.gif" width="230" title="Transition animation practice">
 </p>
 
-# [ARKit + Face Tracking practice](https://github.com/skovalysh/FaceMoji)
-<p align="left"> <a href="https://github.com/skovalysh/FaceMoji"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-
 * ARKit Face Tracking feature
 
 <p align="center">
