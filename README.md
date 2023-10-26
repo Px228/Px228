@@ -71,9 +71,7 @@ Straight Ur Back is an application that reminds you to keep your back straight. 
 </p>
 Take-home project for one of the companies that I applied for a job.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/92813310-ce888c80-f375-11ea-9f74-11e9f95f5596.jpg" width="230" title="ARKit Face Tracking feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92813328-d5170400-f375-11ea-87dc-fc54568e07f3.gif" width="230"  title="ARKit Face Tracking feature">
-</p>
+
 
 # [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
 <p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
@@ -116,23 +114,8 @@ Run with Firebase backend.
 <img src="https://user-images.githubusercontent.com/33416429/87863810-73f22780-c914-11ea-9f27-e2d92d2f032c.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863809-705ea080-c914-11ea-8417-e7b221657ad5.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863814-75bbeb00-c914-11ea-9066-e6705263a47d.jpg" width="230"  title="Twitter clone">
 </p>
 
-# Firebase auth + Transition animation practice
 
-* Implemented Firebase Auth
-* Background gradient animation
-* Transition animation
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87865979-5b900600-c930-11ea-988d-6e075526e8b9.gif" width="230" title="Transition animation practice">
-</p>
-
-* ARKit Face Tracking feature
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/88236681-64cfea00-cc32-11ea-8dac-5013d1e660dc.jpg" width="230" title="ARKit Face Tracking feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/88236534-16225000-cc32-11ea-8079-93716c06e8c3.gif" width="230"  title="ARKit Face Tracking feature">
-</p>
-
-## Thanks for stopping by!
 
 # Contact Info:
 
